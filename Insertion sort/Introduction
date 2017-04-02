@@ -1,0 +1,10 @@
+#Introduction to Insertion sort
+
+It is a simple Sorting algorithm which sorts the array by shifting elements one by one. Following are some of the important characteristics of Insertion Sort.
+
+1.It has one of the simplest implementation
+2.It is efficient for smaller data sets, but very inefficient for larger lists.
+3.Insertion Sort is adaptive, that means it reduces its total number of steps if given a partially sorted list, hence it increases its efficiency.
+4.It is better than Selection Sort and Bubble Sort algorithms.
+5.Its space complexity is less, like Bubble Sorting, insertion sort also requires a single additional memory space.
+6.It is Stable, as it does not change the relative order of elements with equal keys
